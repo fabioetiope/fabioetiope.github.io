@@ -1,3 +1,3 @@
 ## My personal website
 
-Visit [fabioetiope.me](http://fabioetiope.me)
+Visit [fabioetiope.me](https://fabioetiope.me)
