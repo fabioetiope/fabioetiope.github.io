@@ -7,6 +7,8 @@
 
 body {
     background-color: black;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 .prompt {
@@ -57,11 +59,11 @@ body {
 }
 
 #github {
-    padding-right: 1%;
+    margin-right: 1%;
 }
 
 #instagram {
-    padding-left: 1%;
+    margin-left: 1%;
 }
 
 a { 
